@@ -1,4 +1,5 @@
 # 📈 Walmart Sales Forecasting Using ARIMA
+<img width="421" alt="Image" src="https://github.com/user-attachments/assets/a108143a-1f68-4395-a679-34a4db1f1ad4" />
 
 This project predicts future weekly sales for a Walmart store using historical data and time series forecasting (ARIMA model).
 
