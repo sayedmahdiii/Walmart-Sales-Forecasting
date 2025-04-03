@@ -37,7 +37,7 @@ Build a model to forecast future weekly sales of **Store 1** based on past trend
 
 ## 🖼️ Forecast Plot
 
-![Forecast](images/forecast_plot.png)
+<img width="860" alt="Image" src="https://github.com/user-attachments/assets/b0062cb8-5d1c-4582-88ce-5214c1b18e41" />
 
 ## 📁 Folder Structure
 
